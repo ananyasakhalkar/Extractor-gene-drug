@@ -1,0 +1,17 @@
+{
+  "total_usable_annotations": 27357,
+  "unique_gene_drug_pairs": 7634,
+  "rows_by_split": {
+    "train": 19143,
+    "validation": 4316,
+    "test": 3898
+  },
+  "unique_pairs_by_split": {
+    "test": 1141,
+    "train": 5338,
+    "validation": 1155
+  },
+  "split_rule": "Gene-drug pair aware; same normalized pair never crosses train/validation/test.",
+  "random_seed": 42,
+  "note": "These are PharmGKB annotation sentences with curated fields. They support extraction evaluation, not patient-level clinical accuracy."
+}

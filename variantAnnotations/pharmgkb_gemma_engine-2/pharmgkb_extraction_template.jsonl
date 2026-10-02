@@ -1,0 +1,1 @@
+{"text": "REPLACE_WITH_REAL_PHARMGKB_PASSAGE", "output": {"interactions": [{"gene": "CYP2C19", "drug": "clopidogrel", "interaction_type": "drug_response", "direction": "decreased", "effect": "reduced response", "evidence_level": "high"}]}}

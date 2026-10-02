@@ -1,0 +1,320 @@
+Drug	Gene	Guideline	CPIC Level	ClinPGx Level of Evidence	PGx on FDA Label	CPIC Publications (PMID)
+abacavir	HLA-B	https://www.clinpgx.org/guideline/PA166251444	A	1A	Testing Required	24561393, 22378157
+allopurinol	HLA-B	https://www.clinpgx.org/guideline/PA166251446	A	1A	Testing Recommended	23232549, 26094938
+amikacin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A	Actionable PGx	34032273
+amitriptyline	CYP2C19	https://www.clinpgx.org/guideline/PA166251445	A	1A		23486447, 27997040
+amitriptyline	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	A	1A	Informative PGx	23486447, 27997040
+atazanavir	UGT1A1	https://www.clinpgx.org/guideline/PA166251453	A	1A		26417955
+atomoxetine	CYP2D6	https://www.clinpgx.org/guideline/PA166251459	A	1A	Actionable PGx	30801677
+atorvastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+azathioprine	NUDT15	https://www.clinpgx.org/guideline/PA166251442	A	1A	Testing Recommended	21270794, 23422873, 30447069, 41618934
+azathioprine	TPMT	https://www.clinpgx.org/guideline/PA166251442	A	1A	Testing Recommended	21270794, 23422873, 30447069, 41618934
+capecitabine	DPYD	https://www.clinpgx.org/guideline/PA166251462	A	1A	Testing Required	23988873, 29152729
+carbamazepine	HLA-A	https://www.clinpgx.org/guideline/PA166251448	A	1A	Actionable PGx	23695185, 29392710
+carbamazepine	HLA-B	https://www.clinpgx.org/guideline/PA166251448	A	1A	Testing Required	23695185, 29392710
+celecoxib	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A	Actionable PGx	32189324
+citalopram	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	A	1A	Actionable PGx	25974703, 37032427
+clopidogrel	CYP2C19	https://www.clinpgx.org/guideline/PA166251443	A	1A	Actionable PGx	21716271, 23698643, 35034351
+codeine	CYP2D6	https://www.clinpgx.org/guideline/PA166251454	A	1A	Actionable PGx	22205192, 24458010, 33387367
+dapsone	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	4	Actionable PGx	36049896
+desflurane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+desflurane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+dibekacin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A			34032273
+efavirenz	CYP2B6	https://www.clinpgx.org/guideline/PA166251463	A	1A	Informative PGx	31006110
+enflurane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+enflurane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+escitalopram	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	A	1A	Informative PGx	25974703, 37032427
+fluorouracil	DPYD	https://www.clinpgx.org/guideline/PA166251462	A	1A	Testing Required	23988873, 29152729
+flurbiprofen	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A	Actionable PGx	32189324
+fluvastatin	CYP2C9	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+fluvastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+fosphenytoin	CYP2C9	https://www.clinpgx.org/guideline/PA166251461	A		Actionable PGx	25099164, 32779747
+fosphenytoin	HLA-B	https://www.clinpgx.org/guideline/PA166251461	A		Actionable PGx	25099164, 32779747
+gentamicin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A	Actionable PGx	34032273
+halothane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+halothane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+hydralazine	NAT2	https://www.clinpgx.org/guideline/PA166416361	A	1A	Actionable PGx	
+ibuprofen	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A		32189324
+isoflurane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+isoflurane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+ivacaftor	CFTR	https://www.clinpgx.org/guideline/PA166251449	A	1A	Testing Required	24598717
+kanamycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A		34032273
+lansoprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	A	1A	Informative PGx	32770672
+lornoxicam	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A		32189324
+lovastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+meloxicam	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A	Informative PGx	32189324
+mercaptopurine	NUDT15	https://www.clinpgx.org/guideline/PA166251442	A	1A	Testing Recommended	21270794, 23422873, 30447069, 41618934
+mercaptopurine	TPMT	https://www.clinpgx.org/guideline/PA166251442	A	1A	Testing Recommended	21270794, 23422873, 30447069, 41618934
+methoxyflurane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+methoxyflurane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A		30499100
+methylene blue	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	3	Actionable PGx	36049896
+neomycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A	Actionable PGx	34032273
+netilmicin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A			34032273
+nitrofurantoin	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	3	Actionable PGx	36049896
+nortriptyline	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	A	1A	Informative PGx	23486447, 27997040
+omeprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	A	1A	Informative PGx	32770672
+ondansetron	CYP2D6	https://www.clinpgx.org/guideline/PA166251457	A	1A	No Clinical PGx	28002639, 41979467
+oxcarbazepine	HLA-B	https://www.clinpgx.org/guideline/PA166251448	A	1A	Testing Recommended	29392710
+pantoprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	A	1A	Actionable PGx	32770672
+paromomycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A			34032273
+paroxetine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	A	1A		25974703, 37032427
+pegloticase	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	3	Testing Required	36049896
+phenytoin	CYP2C9	https://www.clinpgx.org/guideline/PA166251461	A	1A	Actionable PGx	25099164, 32779747
+phenytoin	HLA-B	https://www.clinpgx.org/guideline/PA166251461	A	1A	Actionable PGx	25099164, 32779747
+piroxicam	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A	Actionable PGx	32189324
+pitavastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+plazomicin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A		Actionable PGx	34032273
+pravastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+primaquine	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	3	Testing Required	36049896
+rasburicase	G6PD	https://www.clinpgx.org/guideline/PA166251450	A	1A	Testing Required	24787449, 36049896
+ribostamycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A			34032273
+rosuvastatin	ABCG2	https://www.clinpgx.org/guideline/PA166264281	A	1A		35152405
+rosuvastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A	Informative PGx	35152405
+sertraline	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	A	1A		25974703, 37032427
+sevoflurane	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+sevoflurane	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+simvastatin	SLCO1B1	https://www.clinpgx.org/guideline/PA166264281	A	1A		22617227, 24918167, 35152405
+streptomycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A	Actionable PGx	34032273
+succinylcholine	CACNA1S	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+succinylcholine	RYR1	https://www.clinpgx.org/guideline/PA166251460	A	1A	Actionable PGx	30499100
+tacrolimus	CYP3A5	https://www.clinpgx.org/guideline/PA166251451	A	1A		25801146
+tafenoquine	G6PD	https://www.clinpgx.org/guideline/PA166251450	A		Testing Required	36049896
+tamoxifen	CYP2D6	https://www.clinpgx.org/guideline/PA166251458	A	1A	Informative PGx	29385237
+tenoxicam	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	A	1A		32189324
+thioguanine	NUDT15	https://www.clinpgx.org/guideline/PA166251442	A	3	Testing Recommended	21270794, 23422873, 30447069, 41618934
+thioguanine	TPMT	https://www.clinpgx.org/guideline/PA166251442	A	1A	Testing Recommended	21270794, 23422873, 30447069, 41618934
+tobramycin	MT-RNR1	https://www.clinpgx.org/guideline/PA166251466	A	1A	Actionable PGx	34032273
+toluidine blue	G6PD	https://www.clinpgx.org/guideline/PA166251450	A			36049896
+tramadol	CYP2D6	https://www.clinpgx.org/guideline/PA166251454	A	1A	Actionable PGx	33387367
+tropisetron	CYP2D6	https://www.clinpgx.org/guideline/PA166251457	A	1A		28002639, 41979467
+voriconazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251456	A	1A	Informative PGx	27981572
+vortioxetine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	A	1A	Actionable PGx	37032427
+warfarin	CYP2C9	https://www.clinpgx.org/guideline/PA166251465	A	1A	Actionable PGx	21900891, 28198005
+warfarin	CYP4F2	https://www.clinpgx.org/guideline/PA166251465	A	1A		21900891, 28198005
+warfarin	VKORC1	https://www.clinpgx.org/guideline/PA166251465	A	1A	Actionable PGx	21900891, 28198005
+clomipramine	CYP2C19	https://www.clinpgx.org/guideline/PA166251445	B	1A		23486447, 27997040
+clomipramine	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+desipramine	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+dexlansoprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	B	1A	Informative PGx	32770672
+doxepin	CYP2C19	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+doxepin	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+fluvoxamine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	B	1A	Actionable PGx	25974703, 37032427
+hydrocodone	CYP2D6	https://www.clinpgx.org/guideline/PA166251454	B	1A		33387367
+imipramine	CYP2C19	https://www.clinpgx.org/guideline/PA166251445	B	1A		23486447, 27997040
+imipramine	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+metoprolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	B	1A	Informative PGx	38951961
+sertraline	CYP2B6	https://www.clinpgx.org/guideline/PA166251452	B	1A		37032427
+trimipramine	CYP2C19	https://www.clinpgx.org/guideline/PA166251445	B	1A		23486447, 27997040
+trimipramine	CYP2D6	https://www.clinpgx.org/guideline/PA166251445	B	1A	Informative PGx	23486447, 27997040
+venlafaxine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	B	1A	Informative PGx	37032427
+acebutolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+acebutolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+acebutolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+acebutolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+acebutolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+aceclofenac	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C			32189324
+alfentanil	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+alfentanil	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+aminosalicylic acid	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+aspirin	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C			32189324
+aspirin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3		36049896
+atenolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+atenolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C	4		38951961
+atenolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+atenolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+atorvastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C	3		
+atorvastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C	3		
+atorvastatin	HMGCR	https://www.clinpgx.org/guideline/PA166264281	C	3		
+betaxolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+betaxolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+betaxolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+betaxolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+betaxolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+bisoprolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+bisoprolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+bisoprolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+bisoprolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+bisoprolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+buprenorphine	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+buprenorphine	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+carvedilol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+carvedilol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+carvedilol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+carvedilol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C	3	Informative PGx	38951961
+carvedilol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+carvedilol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+chloramphenicol	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3		36049896
+chloroquine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	4	Actionable PGx	36049896
+chlorpropamide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+ciprofloxacin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3		36049896
+citalopram	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	C	3	No Clinical PGx	37032427
+citalopram	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+citalopram	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+codeine	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+codeine	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+dabrafenib	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+desvenlafaxine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+desvenlafaxine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+diclofenac	CYP2C8	https://www.clinpgx.org/guideline/PA166251464	C	3		32189324
+diclofenac	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C	3		32189324
+dimercaprol	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3		36049896
+dolasetron	CYP2D6	https://www.clinpgx.org/guideline/PA166251457	C	4		41979467
+doxorubicin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+duloxetine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+duloxetine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	C		Informative PGx	37032427
+duloxetine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+duloxetine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+escitalopram	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+escitalopram	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+escitalopram	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+esmolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+esmolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+esmolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+esmolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+esomeprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	C	3	No Clinical PGx	32770672
+fentanyl	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+fentanyl	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+fluoxetine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+fluoxetine	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	C	3	Actionable PGx	37032427
+fluoxetine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+fluoxetine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+fluvastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C	3		
+fluvastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C			
+fluvastatin	HMGCR	https://www.clinpgx.org/guideline/PA166264281	C	3		
+fluvoxamine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+fluvoxamine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+fluvoxamine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+furazolidone	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+gliclazide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+glimepiride	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	
+glipizide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+glyburide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3	Actionable PGx	36049896
+hydrocodone	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+hydrocodone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+hydromorphone	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+hydromorphone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+hydroxychloroquine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+ibuprofen	CYP2C8	https://www.clinpgx.org/guideline/PA166251464	C	3		32189324
+indomethacin	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C	3		32189324
+labetalol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+labetalol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+labetalol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+labetalol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+labetalol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+levomethadone	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+levomethadone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+levomilnacipran	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+levomilnacipran	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+lovastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C			
+lovastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C	3		
+lovastatin	HMGCR	https://www.clinpgx.org/guideline/PA166264281	C	3		
+lumiracoxib	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C			32189324
+mafenide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Informative PGx	36049896
+mepacrine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+mesalazine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+methadone	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+methadone	CYP2B6	https://www.clinpgx.org/guideline/PA166411641	C	2A		38863207
+methadone	CYP2D6	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+methadone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+metoprolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+metoprolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+metoprolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+metoprolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+milnacipran	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+milnacipran	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+morphine	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+morphine	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+moxifloxacin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+nabumetone	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C			32189324
+nadolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nadolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nadolol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nadolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nadolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nalidixic acid	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+naltrexone	COMT	https://www.clinpgx.org/guideline/PA166251454	C			33387367
+naltrexone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	4		33387367
+naproxen	CYP2C9	https://www.clinpgx.org/guideline/PA166251464	C	3		32189324
+nebivolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nebivolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nebivolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C		No Clinical PGx	38951961
+nebivolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nebivolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+nicorandil	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+nitrofural	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+norfloxacin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Informative PGx	36049896
+ofloxacin	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+oxcarbazepine	HLA-A	https://www.clinpgx.org/guideline/PA166251448	C	3		29392710
+oxycodone	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+oxycodone	CYP2D6	https://www.clinpgx.org/guideline/PA166251454	C	2A		33387367
+oxycodone	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+palonosetron	CYP2D6	https://www.clinpgx.org/guideline/PA166251457	C		No Clinical PGx	41979467
+paroxetine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+paroxetine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+paroxetine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+phenazopyridine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3		36049896
+pindolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+pindolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+pindolol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+pindolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+pindolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+pitavastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C			
+pitavastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C			
+pitavastatin	HMGCR	https://www.clinpgx.org/guideline/PA166264281	C			
+pravastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C			
+pravastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C			
+probenecid	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Informative PGx	36049896
+propranolol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+propranolol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+propranolol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C	3		38951961
+propranolol	CYP2D6	https://www.clinpgx.org/guideline/PA166343383	C	4	No Clinical PGx	38951961
+propranolol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+propranolol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+quinine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+rabeprazole	CYP2C19	https://www.clinpgx.org/guideline/PA166251441	C	2A	Informative PGx	32770672
+ramosetron	CYP2D6	https://www.clinpgx.org/guideline/PA166251457	C			41979467
+remifentanil	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+remifentanil	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+rosuvastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C			
+rosuvastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C	3		
+rosuvastatin	HMGCR	https://www.clinpgx.org/guideline/PA166264281	C			
+sertraline	CYP2D6	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+sertraline	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+sertraline	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+simvastatin	CYP3A4	https://www.clinpgx.org/guideline/PA166264281	C	3		
+simvastatin	CYP3A5	https://www.clinpgx.org/guideline/PA166264281	C	4		
+sodium nitrite	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+sotalol	ADRA2C	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+sotalol	ADRB1	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+sotalol	ADRB2	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+sotalol	GRK4	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+sotalol	GRK5	https://www.clinpgx.org/guideline/PA166343383	C			38951961
+sufentanil	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+sufentanil	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+sulfacetamide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+sulfadiazine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Informative PGx	36049896
+sulfadimidine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+sulfamethoxazole / trimethoprim	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	4	Informative PGx	36049896
+sulfanilamide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+sulfasalazine	G6PD	https://www.clinpgx.org/guideline/PA166251450	C	3	Actionable PGx	36049896
+sulfisoxazole	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+tegafur	DPYD	https://www.clinpgx.org/guideline/PA166251462	C	1A		23988873, 29152729
+tolazamide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+tolbutamide	G6PD	https://www.clinpgx.org/guideline/PA166251450	C		Actionable PGx	36049896
+tramadol	COMT	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+tramadol	OPRM1	https://www.clinpgx.org/guideline/PA166251454	C	3		33387367
+trametinib	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+venlafaxine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+venlafaxine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C	3		37032427
+venlafaxine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C	4		37032427
+vilazodone	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+vilazodone	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+vitamin c	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+vitamin k	G6PD	https://www.clinpgx.org/guideline/PA166251450	C			36049896
+vortioxetine	CYP2C19	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+vortioxetine	HTR2A	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+vortioxetine	SLC6A4	https://www.clinpgx.org/guideline/PA166251452	C			37032427
+peginterferon alfa-2a	IFNL3	https://www.clinpgx.org/guideline/PA166251455	Retired	1B		24096968
+peginterferon alfa-2a	IFNL4	https://www.clinpgx.org/guideline/PA166251455	Retired	1B		
+peginterferon alfa-2b	IFNL3	https://www.clinpgx.org/guideline/PA166251455	Retired	1B	Informative PGx	24096968
+peginterferon alfa-2b	IFNL4	https://www.clinpgx.org/guideline/PA166251455	Retired	1B		

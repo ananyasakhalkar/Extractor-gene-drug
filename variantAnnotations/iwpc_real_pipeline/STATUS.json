@@ -1,0 +1,17 @@
+{
+  "genotype_records_raw": 658,
+  "unique_subjects": 333,
+  "duplicate_subject_ids": 325,
+  "conflicting_duplicate_fields": 0,
+  "geno_markers": [
+    "rs1799853",
+    "rs1057910",
+    "rs9923231",
+    "rs9934438",
+    "rs2108622",
+    "rs12777823"
+  ],
+  "phenotype_patient_outcomes_available_in_uploaded_files": false,
+  "real_baseline_trainable_now": false,
+  "reason": "The uploaded IWPC genotype files are present, but the patient phenotype/dose table itself is not present in /mnt/data. The XLS files are documentation/calculator templates, not the subject-level outcome table."
+}

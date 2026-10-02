@@ -1,0 +1,10 @@
+Metric,Value
+CPIC gene-drug pairs,319
+PharmGKB gene-chemical relationship rows,11035
+Unique PharmGKB gene-drug pairs,11035
+Associated,6536
+Not associated,2126
+Ambiguous,2373
+Drug-label records,1433
+Expanded drug-label gene-drug pairs,2024
+CPIC pairs overlapping PharmGKB relationships,314

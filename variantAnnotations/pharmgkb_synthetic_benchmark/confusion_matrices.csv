@@ -1,0 +1,5 @@
+model,truth,pred_0,pred_1
+baseline,true_0,380,309
+baseline,true_1,271,479
+fusion,true_0,381,308
+fusion,true_1,271,479
